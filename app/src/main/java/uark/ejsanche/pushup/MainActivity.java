@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void pullDown(){
+        String  p = "Pulling string";
+    }
+
 }
