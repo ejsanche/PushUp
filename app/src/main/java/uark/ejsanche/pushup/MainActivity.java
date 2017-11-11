@@ -21,9 +21,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void newMethod(){
-        int i = 3+3;
-
-        String test= "Test";
+        int i = 60;
+        String test= "Test2";
         boolean True = false;
 
         if(i <= 100){
