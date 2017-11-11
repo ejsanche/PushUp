@@ -1,4 +1,4 @@
-package uark.ejsanche.pushup;
+ package uark.ejsanche.pushup;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -20,4 +20,10 @@ public class MainActivity extends AppCompatActivity {
         String  p = "Pulling string";
     }
 
+    public void newMethod(){
+        int i = 2+2;
+        String test= "Test";
+    }
 }
+
+
